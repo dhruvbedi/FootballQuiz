@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Football Quiz</string>
+    <string name="question1">"David Beckham played for which country ?"</string>
+    <string name="question2">"How many football World Cups have been won by Brazil?""</string>
+    <string name="question3">"Which player holds the record for a total of 46 attempts on target?"</string>
+    <string name="question4">"How many times has Ronaldo won the Ballon d'Or"</string>
+    <string name="question5">"What team does Messi play on?"</string>
+    <string name="question6">"The only players to score in every minute of a match are ? "</string>
+    <string name="check1">Ronaldo</string>
+    <string name="check2">Hazard</string>
+    <string name="check3">Vardy</string>
+    <string name="check4">Ibrahimovic</string>
+    <string name="question7">"How many players are there in a playing team ?"</string>
+</resources>
